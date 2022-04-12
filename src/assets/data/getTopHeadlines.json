@@ -1,0 +1,266 @@
+{
+	"status": "ok",
+	"totalResults": 70,
+	"articles": [
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "What To Do After Today's Stock Market Sell-Off Before Inflation Report - Investor's Business Daily",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMilgFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtd2hhdC10by1kby1hZnRlci10b2RheXMtc3RvY2stbWFya2V0LXNlbGwtb2ZmLWJlZm9yZS1rZXktaW5mbGF0aW9uLXJlcG9ydC_SAQA?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2022-04-12T00:08:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Krystal Hur",
+			"title": "‘Forget FAANG’ and focus on value stocks in the current inflationary environment, Jim Cramer says - CNBC",
+			"description": "\"For the moment, I do think we have to forget most of FAANG and focus on the money centers,\" the \"Mad Money\" host said.",
+			"url": "https://www.cnbc.com/2022/04/11/forget-faang-and-focus-on-value-stocks-in-the-current-inflationary-environment-jim-cramer-says.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/106962874-1634679652404-gettyimages-1345411939-cg6a9424_2021100782325378.jpeg?v=1646847651&w=1920&h=1080",
+			"publishedAt": "2022-04-11T23:41:04Z",
+			"content": "CNBC's Jim Cramer on Monday advised investors to turn away Big Tech and other growth stocks that are likely to be hard hit as the Federal Reserve raises interest rates.\r\n\"For the moment, I do think w… [+1281 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Krystal Hur",
+			"title": "Jim Cramer says he likes these 6 travel and leisure GARP stocks - CNBC",
+			"description": "\"You want companies with better-than-average growth rates as long as their stocks have relatively cheap valuations,\" the \"Mad Money\" host said.",
+			"url": "https://www.cnbc.com/2022/04/11/jim-cramer-says-he-likes-these-6-travel-and-leisure-garp-stocks.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/105796904-1552674060380gettyimages-497396938.jpeg?v=1586261778&w=1920&h=1080",
+			"publishedAt": "2022-04-11T23:32:59Z",
+			"content": "CNBC's Jim Cramer on Monday highlighted six stocks in the travel and leisure space that he believes are investable due to their affordable price and growth potential.\r\n\"With the [Federal Reserve] tig… [+2210 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Points Guy"
+			},
+			"author": "Ben Mutzabaugh",
+			"title": "Atlanta reclaims ‘world’s busiest’ title as US airports dominate new top 10 rankings - The Points Guy",
+			"description": "Atlanta is officially the world’s busiest airport again, reclaiming the crown after a pandemic-related shakeup upended the rankings in 2020.",
+			"url": "http://thepointsguy.com/news/atlanta-worlds-busiest-airport-2021/",
+			"urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2022/04/ATL-scaled.jpg",
+			"publishedAt": "2022-04-11T23:29:38Z",
+			"content": "Atlanta is officially the world’s busiest airport again, reclaiming the crown after a pandemic-related shakeup upended the rankings in 2020.\r\nHartsfield-Jackson Atlanta International Airport (ATL) cl… [+4921 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "New York Post"
+			},
+			"author": "Marjorie Hernandez",
+			"title": "US Postal Service suspends delivery after mail carriers attacked in Santa Monica - New York Post ",
+			"description": "“For the safety of our employees, we have had to temporarily suspend delivery of mail to these customers,” Natashi Garvins, a spokesperson for USPS, told The Post on Monday.",
+			"url": "https://nypost.com/2022/04/11/mail-carriers-assaulted-in-santa-monica-causing-delivery-suspension/",
+			"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/newspress-collage-21858260-1649715074069.png?w=1024",
+			"publishedAt": "2022-04-11T23:06:00Z",
+			"content": "The United Postal Service suspended delivery service in a Santa Monica neighborhood after several mail carriers were assaulted over the past few months.\r\nThe attacks occurred along a stretch of 14th … [+2586 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Guardian"
+			},
+			"author": "Kari Paul",
+			"title": "San Francisco police stop self-driving car – and find nobody inside, video shows - The Guardian",
+			"description": "Clip prompts amusement online as car stops, then drives across an intersection, leaving police behind",
+			"url": "https://amp.theguardian.com/technology/2022/apr/11/self-driving-car-police-pull-over-san-francisco",
+			"urlToImage": null,
+			"publishedAt": "2022-04-11T22:32:00Z",
+			"content": "Self-driving carsClip prompts amusement online as car stops, then drives across an intersection, leaving police behind\r\nMon 11 Apr 2022 23.32 BST\r\nA video recently posted online shows what happens wh… [+3380 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "New York Times"
+			},
+			"author": "Roni Caryn Rabin",
+			"title": "New Drug Slashed Deaths Among Patients With Severe Covid, Maker Claims - The New York Times",
+			"description": "A late-stage trial was halted after strong early results, according to the company, but the data have not yet been published or peer-reviewed.",
+			"url": "https://www.nytimes.com/2022/04/11/health/covid-sabizabulin-veru.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/04/11/science/11virus-drug1/11virus-drug1-facebookJumbo.jpg",
+			"publishedAt": "2022-04-11T21:52:16Z",
+			"content": "The drug was granted so-called fast-track status by the Food and Drug Administration in January, Dr. Steiner said. The designation is intended to prompt faster development and review of new treatment… [+1819 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "New York Times"
+			},
+			"author": "Mike Isaac, Kate Conger",
+			"title": "Twitter Grapples With an Elon Musk Problem - The New York Times",
+			"description": "Mr. Musk, Twitter’s biggest shareholder, is free to buy more stock in the company and could use the platform against itself. Some employees are dismayed.",
+			"url": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/04/11/business/11Twitter-01/11Twitter-01-facebookJumbo.jpg",
+			"publishedAt": "2022-04-11T21:50:23Z",
+			"content": "Others said they were upset at Mr. Musks tweets criticizing the companys product and business model, noting that he didnt appreciate the time and thought that went into updating Twitters services ove… [+1841 chars]"
+		},
+		{
+			"source": {
+				"id": "cbs-news",
+				"name": "CBS News"
+			},
+			"author": "Megan Cerullo",
+			"title": "Baby formula shortage spurs rationing and more inflation - CBS News",
+			"description": "In some states, more than half of baby formula products were out of stock, new data shows.",
+			"url": "https://www.cbsnews.com/news/baby-formula-shortage-abbott-nutrition-recall-supply-chain-inflation/",
+			"urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/04/07/b724fdc1-82f5-4890-b92b-fe3c8511f7f3/thumbnail/1200x630/06ad58de3b3a2501fdccc91752741171/gettyimages-78766213.jpg",
+			"publishedAt": "2022-04-11T21:23:00Z",
+			"content": "One of the most important products for new parents is in short supply. Baby formula, which three-quarters of babies in the U.S. receive within their first six months, is increasingly out of stock at … [+3737 chars]"
+		},
+		{
+			"source": {
+				"id": "the-verge",
+				"name": "The Verge"
+			},
+			"author": "Emma Roth",
+			"title": "Amazon is still struggling to make drone deliveries work - The Verge",
+			"description": "Almost 10 years after Amazon announced drone deliveries, the program faces a high turnover rate and claims from former employees that it hasn’t paid enough attention to safety risks, according to a report by Bloomberg.",
+			"url": "https://www.theverge.com/2022/4/11/23020549/amazon-struggling-drone-deliveries-prime-air-bezos",
+			"urlToImage": "https://cdn.vox-cdn.com/thumbor/VnQRypTW4me_NebaVGGMCsNNjYw=/0x149:2112x1255/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22758042/Screen_Shot_2021_08_03_at_11.54.11_AM.png",
+			"publishedAt": "2022-04-11T21:18:24Z",
+			"content": "Amazons drone program has yet to gain momentum\r\nImage: Amazon\r\nA report from Bloomberg details the obstacles hampering Amazons efforts to get its delivery drone program off the ground, citing a high … [+5159 chars]"
+		},
+		{
+			"source": {
+				"id": "the-wall-street-journal",
+				"name": "The Wall Street Journal"
+			},
+			"author": "Karen Langley",
+			"title": "AT&T Shares Climb After Warner Bros. Discovery Deal - The Wall Street Journal",
+			"description": "The new company combines the media properties of Discovery and AT&T",
+			"url": "https://www.wsj.com/articles/at-t-shares-climb-after-spinning-off-media-assets-11649698635",
+			"urlToImage": "https://images.wsj.net/im-522290/social",
+			"publishedAt": "2022-04-11T21:16:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Decrypt"
+			},
+			"author": "Jeff Benson",
+			"title": "Crypto Market Melts Down as Bitcoin Drops 15%, Ethereum Loses 14% - Decrypt",
+			"description": "Bitcoin fell below $40,000, while Ethereum found itself just under $3,000.",
+			"url": "https://decrypt.co/97531/crypto-market-melts-down-bitcoin-drops-ethereum-loses",
+			"urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/bitcoin-ethereum-tokens-gID_4.png",
+			"publishedAt": "2022-04-11T21:11:27Z",
+			"content": "Bitcoin dropped 15% in 24 hours today, falling below $40,000 for the first time since March 15. Meanwhile, Ethereum dipped 14%, finding itself beneath the $3,000 mark for the first time since March 2… [+2305 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CoinDesk"
+			},
+			"author": "Damanick Dantes, Angelique Chen",
+			"title": "Market Wrap: Bitcoin Sell-Off Deepens as Correlation With Stocks Rises - CoinDesk",
+			"description": "BTC is down 40% from its November peak, compared with a 16% drop in the Nasdaq 100 over the same period.",
+			"url": "https://www.coindesk.com/markets/2022/04/11/market-wrap-bitcoin-sell-off-deepens-as-correlation-with-stocks-rise/",
+			"urlToImage": "https://www.coindesk.com/resizer/NRWeLjTwg1Va8cmQAR18GSR7pYs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7GT7OUK3GZEAVG7Q54QZJOQZLI.jpg",
+			"publishedAt": "2022-04-11T20:46:00Z",
+			"content": "Bitcoin (BTC) continued its descent on Monday, briefly dipping below $40,000 and tracking losses in global equities.\r\nInvestors appear to be reducing their exposure to speculative assets, including s… [+6100 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Kif Leswing",
+			"title": "The pandemic boom in PC sales is over - CNBC",
+			"description": "The declining shipment numbers during the first quarter are a marked difference from the torrid pace of sales growth the industry was posting during 2021.",
+			"url": "https://www.cnbc.com/2022/04/11/pandemic-boom-in-pc-sales-is-over.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107000398-1642027684146-lap.jpg?v=1642027736&w=1920&h=1080",
+			"publishedAt": "2022-04-11T20:24:45Z",
+			"content": "Global PC shipments declined sharply in the first quarter of 2022, according to new industry estimates, suggesting that the pandemic boom in PC sales is over.\r\nGartner said on Monday that it estimate… [+1646 chars]"
+		},
+		{
+			"source": {
+				"id": "bloomberg",
+				"name": "Bloomberg"
+			},
+			"author": null,
+			"title": "World Markets Are Falling Again With Echoes of the 2018 Rout - Bloomberg",
+			"description": null,
+			"url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5952067b-b9fb-11ec-82b2-5368546f5777&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNC0xMS93b3JsZC1tYXJrZXRzLWFyZS1mYWxsaW5nLWFnYWluLXdpdGgtZWNob2VzLW9mLXRoZS0yMDE4LXJvdXQ=",
+			"urlToImage": null,
+			"publishedAt": "2022-04-11T20:23:28Z",
+			"content": "To continue, please click the box below to let us know you're not a robot."
+		},
+		{
+			"source": {
+				"id": "the-wall-street-journal",
+				"name": "The Wall Street Journal"
+			},
+			"author": "Karen Langley",
+			"title": "Earnings Season Poses Next Trial for Volatile Stock Market - The Wall Street Journal",
+			"description": "Investors will scour the reports for signs of how businesses are coping with higher costs for everything from energy to labor",
+			"url": "https://www.wsj.com/articles/earnings-season-poses-next-trial-for-volatile-stock-market-11649610255",
+			"urlToImage": "https://images.wsj.net/im-520678/social",
+			"publishedAt": "2022-04-11T20:14:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Patti Domm",
+			"title": "March's runaway energy prices and higher food costs could mean hottest consumer inflation since 1981 - CNBC",
+			"description": "Consumer price inflation in March is expected to have risen the most since December 1981, driven by higher food costs, rising rents and runaway energy prices.",
+			"url": "https://www.cnbc.com/2022/04/11/march-consumer-inflation-expected-to-be-the-hottest-since-1981.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107000599-1642078189299-gettyimages-1364339496-vcg111364818126.jpeg?v=1642078298&w=1920&h=1080",
+			"publishedAt": "2022-04-11T20:13:25Z",
+			"content": "Consumer price inflation in March is expected to have spiked the most since December 1981, driven by higher food costs, rising rents and runaway energy prices.\r\nThe consumer price index will be relea… [+3362 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Reuters",
+			"title": "France's Societe Generale sells Russian bank to oligarch Vladimir Potanin - CNN",
+			"description": "Societe Generale said on Monday it had agreed to sell its stake in Rosbank and the Russian lender's insurance subsidiaries to Interros Capital, a firm linked to billionaire Vladimir Potanin.",
+			"url": "https://www.cnn.com/2022/04/11/business/societe-generale-rosbank-russia-potanin/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220411063759-societe-generale-headquarters-france-020722-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-04-11T20:08:00Z",
+			"content": "Societe Generale said on Monday it had agreed to sell its stake in Rosbank and the Russian lenders insurance subsidiaries to Interros Capital, a firm linked to billionaire Vladimir Potanin.\r\nRussias … [+1917 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Mortgage News Daily"
+			},
+			"author": "Matthew Graham",
+			"title": "30yr Mortgage Rates Jump to 5.25%, Highest Since 2009 - Mortgage News Daily",
+			"description": "The last few days of March offered some hope that  2022's massive rate spike  might be slowing down. The first few days of April crushed those hopes and things have only gotten worse as the new week begins.  After breaking above 5% by the end of last week, Mo…",
+			"url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-04112022",
+			"urlToImage": "https://reports.mortgagenewsdaily.com/image/article/625488e7300054eb79835e88?provider=facebook",
+			"publishedAt": "2022-04-11T20:01:10Z",
+			"content": "The last few days of March offered some hope that 2022's massive rate spike might be slowing down. The first few days of April crushed those hopes and things have only gotten worse as the new week be… [+6764 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Diana Olick",
+			"title": "Jaguar Land Rover and Hitachi are backing this unique battery recycler - CNBC",
+			"description": "Ascend Elements captures battery metals and formulates them into new battery materials, rather than just recycling whole components.",
+			"url": "https://www.cnbc.com/2022/04/11/jaguar-land-rover-and-hitachi-are-backing-this-unique-battery-recycler.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107044958-1649696620676-awomanjpg.jpg?v=1649696725&w=1920&h=1080",
+			"publishedAt": "2022-04-11T19:27:06Z",
+			"content": "Lithium-ion batteries are vital to a lower-carbon future. But they require a lot of energy to produce, especially when it comes to mining and refining the metals. \r\nThe worldwide lithium battery mark… [+2563 chars]"
+		}
+	]
+}
