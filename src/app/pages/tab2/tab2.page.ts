@@ -29,7 +29,7 @@ export class Tab2Page implements OnInit {
     // console.log(category);
     this.newsservice.getTopHeadlinesByCategory(this.selectedCategory)
     .subscribe(articles => {
-      this.articles.push(...articles);
+      this.articles = [...articles];
     });
   }
 
@@ -37,7 +37,7 @@ export class Tab2Page implements OnInit {
     this.articles=[];
     this.newsservice.getTopHeadlinesByCategory(this.selectedCategory)
     .subscribe(articles => {
-      this.articles.push(...articles);
+      this.articles = [...articles];
     });
   }
 
