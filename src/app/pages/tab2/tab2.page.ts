@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { IonInfiniteScroll } from '@ionic/angular';
 import { NewsService } from 'src/app/services/news.service';
 import { Article } from '../../interfaces/index';
 
@@ -8,6 +9,7 @@ import { Article } from '../../interfaces/index';
   styleUrls: ['tab2.page.scss']
 })
 export class Tab2Page implements OnInit {
+  @ViewChild(IonInfiniteScroll) ionInfiniteScroll: IonInfiniteScroll;
 
   categories: string[]=[
     'business',
@@ -38,6 +40,23 @@ export class Tab2Page implements OnInit {
     this.newsservice.getTopHeadlinesByCategory(this.selectedCategory)
     .subscribe(articles => {
       this.articles = [...articles];
+    });
+  }
+
+  loadData(){
+    this.newsservice.getTopHeadlinesByCategory(this.selectedCategory, true)
+    .subscribe(articles => {
+
+      if (articles.length === this.articles.length) {
+        this.ionInfiniteScroll.disabled = true;
+        // event.target.disabled = true;
+        return;
+      }
+      this.articles = articles;
+      this.ionInfiniteScroll.complete();
+      // setTimeout(() => {
+      //   event.target.complete();
+      // }, 1000);
     });
   }
 

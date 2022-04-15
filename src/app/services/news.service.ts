@@ -57,7 +57,7 @@ export class NewsService {
       };
     }
 
-    const page = this.articlesByCategoriesAndPage[category].page += 1;
+    const page = this.articlesByCategoriesAndPage[category].page + 1;
 
     return this.http.get<NewsResponse>(`https://newsapi.org/v2/top-headlines?country=us&category=${category}&page=${page}`, {
       params: {
