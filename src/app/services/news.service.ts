@@ -5,13 +5,15 @@ import { environment } from '../../environments/environment';
 import { Article, ArticlesByCategoriesAndPage, NewsResponse } from '../interfaces';
 import { map } from 'rxjs/operators';
 
+import {storedArticlesByCategory} from '../../assets/data/mock-news';
+
 const apiKey = environment.apiKey;
 
 @Injectable({
   providedIn: 'root'
 })
 export class NewsService {
-  articlesByCategoriesAndPage: ArticlesByCategoriesAndPage = {};
+  articlesByCategoriesAndPage: ArticlesByCategoriesAndPage = storedArticlesByCategory;
 
   constructor(private http: HttpClient) { }
 
@@ -27,6 +29,13 @@ export class NewsService {
   }
 
   getTopHeadlinesByCategory(category: string, loadMore: boolean = false): Observable<Article[]>{
+
+/**
+ *   Returning an observable of the articles in the category.
+ *  This return is only use when we want to publish that app on https site because newsapi free tier is only for localhost.
+ * If u want test this application with another type of subscription of newsapi, u will able to use it with cors.
+ */
+    return of(this.articlesByCategoriesAndPage[category].articles);
 
     if (loadMore) {
       return this.getArticlesByCategory(category);

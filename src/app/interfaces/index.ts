@@ -11,7 +11,7 @@ export interface Article {
   description: null | string;
   url:         string;
   urlToImage:  null | string;
-  publishedAt: Date;
+  publishedAt: string; /*with real newsapi use DATE ; with mocks usea string*/
   content:     null | string;
 }
 

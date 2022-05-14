@@ -6,6 +6,11 @@
 * [App Browser](https://ionicframework.com/docs/native/in-app-browser#installation)
 * [Social Sharing](https://ionicframework.com/docs/native/social-sharing)
 * [Data Storage](https://ionicframework.com/docs/angular/storage)
+* [Data Local NewsApi](https://gist.github.com/Klerith/f4893c14f3fd3c6d31b8de667d52691c)
+* [publish PWA with ionic](https://ionicframework.com/docs/angular/pwa)
+* [Cómo agregar un manifiesto en la aplicación web](https://web.dev/add-manifest/)
+* [google PWA](https://web.dev/progressive-web-apps/)
+
 
 # npm installs
 * animate.css --save
@@ -20,3 +25,5 @@
 * ionic capacitor sync android
 * ionic g (page, module, component, service, pipe )
 * npx cap init
+* ng add angular/pwa
+* ionic build --prod --service-worker
