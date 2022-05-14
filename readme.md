@@ -10,6 +10,14 @@
 * [publish PWA with ionic](https://ionicframework.com/docs/angular/pwa)
 * [Cómo agregar un manifiesto en la aplicación web](https://web.dev/add-manifest/)
 * [google PWA](https://web.dev/progressive-web-apps/)
+* [Manifest json para  PWA](https://app-manifest.firebaseapp.com/)
+* [Manifest json para  PWA OP#2](https://manifest-gen.netlify.app/)
+* [Firebase](https://firebase.google.com/)
+* [Share API](https://web.dev/web-share/)
+
+
+
+
 
 
 # npm installs
@@ -27,3 +35,7 @@
 * npx cap init
 * ng add angular/pwa
 * ionic build --prod --service-worker
+* npm i -g firebase-tools
+* firebase login
+* firebase init
+* firebase deploy

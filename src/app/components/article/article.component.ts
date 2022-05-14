@@ -58,9 +58,17 @@ export class ArticleComponent implements OnInit {
       icon: 'share-outline',
       handler: () => this.sharedArticle()
     };
+    const shareActionDesktop: ActionSheetButton =
+    {
+      text: 'Compartir',
+      icon: 'share-outline',
+      handler: () => this.sharedArticleWithDesktop()
+    };
 
-    if (this.platform.is('capacitor')) {
+    if (this.platform.is('cordova')) {
       actionBtn.unshift(shareAction);
+    }else{
+      actionBtn.unshift(shareActionDesktop);
     }
 
     const actionSheet = await this.actionsheetCtrl.create({
@@ -70,6 +78,20 @@ export class ArticleComponent implements OnInit {
     );
 
     await actionSheet.present();
+  }
+
+  sharedArticleWithDesktop(){
+    if (navigator.share) {
+      navigator.share({
+        title: this.article.title,
+        text: this.article.source.name,
+        url: this.article.url,
+      })
+        .then(() => console.log('Successful share'))
+        .catch((error) => console.log('Error sharing', error));
+    }else{
+      console.log('Dispositivo no soporta acción de compartir.');
+    }
   }
 
   sharedArticle() {
