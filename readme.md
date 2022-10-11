@@ -39,3 +39,14 @@
 * firebase login
 * firebase init
 * firebase deploy
+
+# Cambiar iconos con capacitor.
+https://capacitorjs.com/docs/guides/splash-screens-and-icons
+https://www.npmjs.com/package/capacitor-resources
+https://gist.github.com/dalezak/a6b1de39091f4ace220695d72717ac71
+
+
+# Cambiar versionamiento
+
+https://github.com/ionic-team/capacitor/issues/840#issuecomment-426234086
+

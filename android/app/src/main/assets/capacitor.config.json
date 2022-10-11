@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "noticias",
+	"appId": "com.komalramtec.pty",
+	"appName": "Noticias",
 	"webDir": "www",
 	"bundledWebRuntime": false
 }
